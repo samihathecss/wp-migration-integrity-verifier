@@ -13,6 +13,10 @@ A Python tool to verify WordPress migrations by comparing file inventories and S
 - **Offline Operation**: No network access required
 - **Read-Only**: Never modifies, deletes, or executes analyzed files
 
+## Demo Screenshot
+
+![WP Migration Integrity Verifier demo report](screenshots/demo-report.png)
+
 ## Installation
 
 ```bash
